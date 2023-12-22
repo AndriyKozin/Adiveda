@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 2bd3301b36e65b6f158f51a054e56e93e04865f8 root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999354 +0000	clone: from /root/.composer/cache/vcs/https---github.com-reactphp-promise.git/
+2bd3301b36e65b6f158f51a054e56e93e04865f8 31ffa96f8d2ed0341a57848cbb84d88b89dd664d root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999354 +0000	checkout: moving from master to v2.7.1

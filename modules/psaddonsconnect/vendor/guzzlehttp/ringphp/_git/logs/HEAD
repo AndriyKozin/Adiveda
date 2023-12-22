@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5e2a174052995663dd68e6b5ad838afd47dd615b root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999354 +0000	clone: from /root/.composer/cache/vcs/https---github.com-guzzle-RingPHP.git/
+5e2a174052995663dd68e6b5ad838afd47dd615b 5e2a174052995663dd68e6b5ad838afd47dd615b root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999355 +0000	checkout: moving from master to 1.1.1

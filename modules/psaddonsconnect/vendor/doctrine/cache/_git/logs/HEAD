@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 c29471b93a163e79674d1928ec996916f509178c root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999357 +0000	clone: from /root/.composer/cache/vcs/https---github.com-doctrine-cache.git/
+c29471b93a163e79674d1928ec996916f509178c eb152c5100571c7a45470ff2a35095ab3f3b900b root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999358 +0000	checkout: moving from master to v1.6.2

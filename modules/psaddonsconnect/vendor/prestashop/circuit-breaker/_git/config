@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/PrestaShop/circuit-breaker.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = git@github.com:PrestaShop/circuit-breaker.git
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[remote "composer"]
+	url = https://github.com/PrestaShop/circuit-breaker.git
+	fetch = +refs/heads/*:refs/remotes/composer/*

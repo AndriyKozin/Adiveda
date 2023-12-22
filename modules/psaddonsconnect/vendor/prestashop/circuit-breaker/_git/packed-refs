@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+ba30dc3259fb166a0530b6d510ad1bf2e4629ba5 refs/remotes/origin/develop
+682502a406832f9d84dfd86bd1bc769c93822c70 refs/remotes/origin/extract-client
+8764540d470b533c9484534343688733bc363f77 refs/remotes/origin/master
+82fea12a56011e6b1ea8f8b065fb1a264cf4705b refs/remotes/origin/update-psalm-config
+921d252496fbff538b41707117be8dd5c6c5a228 refs/tags/v1.0
+96cad0353c829ba56e5f1cf405a2a3dfe957239a refs/tags/v1.1
+1deb54df118ba2e644a233a874738ef2fa2a63a0 refs/tags/v1.1.1
+e1d97a5f097d17e8c5f4b65343c2cd13dd8d9d79 refs/tags/v2.0.0
+8764540d470b533c9484534343688733bc363f77 refs/tags/v3.0.0

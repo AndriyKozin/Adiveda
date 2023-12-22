@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 ba30dc3259fb166a0530b6d510ad1bf2e4629ba5 root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999358 +0000	clone: from /root/.composer/cache/vcs/https---github.com-PrestaShop-circuit-breaker.git/
+ba30dc3259fb166a0530b6d510ad1bf2e4629ba5 8764540d470b533c9484534343688733bc363f77 root <root@runner-ed2dce3a-project-4532123-concurrent-0.(none)> 1566999358 +0000	checkout: moving from develop to v3.0.0
