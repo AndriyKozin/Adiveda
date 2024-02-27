@@ -1,5 +1,5 @@
 # Adiveda
-Unfortunately deprecated website (as of 2023)
+Deprecated website (as of 2023)
 
 Screen Shots of When it was working:
 
