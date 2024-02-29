@@ -1,7 +1,7 @@
 # Adiveda
 Deprecated website (as of 2023)
 
-Screen Shots of When it was working:
+Screenshots of when it was live:
 ![wireframe](https://github.com/AndriyKozin/Adiveda/assets/31294731/0dc18b8a-777a-4d64-a6bf-db854993f0d4)
 
 ![screencapture-adivedastore-zapto-org-index-php-2019-12-05-15_55_27](https://github.com/AndriyKozin/Adiveda/assets/31294731/28c596cf-5ec2-4372-8dac-9c3b309558d2)
