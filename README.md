@@ -2,11 +2,24 @@
 Deprecated website (as of 2023)
 
 Screenshots of when it was live:
+
+Wireframe:
 ![wireframe](https://github.com/AndriyKozin/Adiveda/assets/31294731/0dc18b8a-777a-4d64-a6bf-db854993f0d4)
 
+This is the Main Home Page:
 ![screencapture-adivedastore-zapto-org-index-php-2019-12-05-15_55_27](https://github.com/AndriyKozin/Adiveda/assets/31294731/28c596cf-5ec2-4372-8dac-9c3b309558d2)
+
+This is the Product Page:
+
 ![screencapture-adivedastore-zapto-org-index-php-2019-12-05-15_56_01](https://github.com/AndriyKozin/Adiveda/assets/31294731/4d92f67c-bca9-4ec4-aa8e-9354b9692169)
+
+
+This is the Product View Page:
+
 ![screencapture-adivedastore-zapto-org-index-php-2019-12-05-15_56_11](https://github.com/AndriyKozin/Adiveda/assets/31294731/981ae15a-f3d8-4fdb-a71c-5ab94174275c)
+
+This is the Payment processing and cutomers to enter their details Page:
+
 ![screencapture-adivedastore-zapto-org-index-php-2019-12-05-15_57_02](https://github.com/AndriyKozin/Adiveda/assets/31294731/27471b2e-5019-4d4b-99c1-3788fa5a624a)
 
 
